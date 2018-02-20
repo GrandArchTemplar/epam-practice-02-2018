@@ -105,8 +105,8 @@ public class GenomeSearcher {
         return result;
     }
 
-    /*@NotNull
+    @NotNull
     public static HashMap<HashString, HashSet<AtomicInteger>> findAllSubseq(@NotNull String input, int size) {
         _findAllSubseq().entrySet().stream()
-    }*/
+    }
 }
